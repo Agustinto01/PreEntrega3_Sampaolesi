@@ -1,0 +1,18 @@
+/* estilos de Contacto */
+
+
+// boton Contacto
+.color-boton {
+    background-color: $color-boton;
+}
+
+
+.contacto h1,
+h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.footer-contacto h3 {
+    @include footer;
+}
